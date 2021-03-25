@@ -19,7 +19,7 @@ locale                   : "ko"
 title                    : "C 프로그래밍"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "정은민"
+name                     : "정은민!"
 description              : "시스템 프로그램을 위한 C언어."
 url                      : # the base hostname & protocol for your site e.g. "https://eunminj.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "jungeunmin"
+  name             : "정은민!"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "HAFS 20832"
   location         : "대한민국, 서울"
