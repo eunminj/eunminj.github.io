@@ -3,8 +3,8 @@ main:
   - title: "J"
     url: /categories/
   - title: "E"
-    url: /year-archive/
+    url: /year_archive/
   - title: "M"
-    url: /collection-archive/
+    url: /collection_archive/
   # - title: "Sitemap"
   #   url: /sitemap/
